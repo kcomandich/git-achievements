@@ -2,6 +2,7 @@
 <title>Kirsten Comandich's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Master Stone Mason (Level 11)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
 <item><title>Apprentice Investigator (Level 3)</title><description>Used git blame to annotate a file with information about how each line changed.</description></item>
 <item><title>Master Socialite (Level 7)</title><description>pushed a branch to a remote repository using git push</description></item>
 <item><title>Apprentice Investigator (Level 2)</title><description>Used git blame to annotate a file with information about how each line changed.</description></item>
@@ -21,5 +22,4 @@
 <item><title>Master Stone Mason (Level 10)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
 <item><title>Master Seamstress (Level 7)</title><description>amended a commit with git commit --amend.</description></item>
 <item><title>Master Miller (Level 7)</title><description>Add only part of a file to the stage 917 times with git add -p.</description></item>
-<item><title>Apprentice Banker (Level 1)</title><description>Join two or more development histories together with git merge.</description></item>
 </channel></rss>
